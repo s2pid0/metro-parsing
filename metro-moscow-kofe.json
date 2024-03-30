@@ -7732,29 +7732,6 @@
                          ]
                     },
                     {
-                         "id": 604945259,
-                         "name": "Кофе Jardin Guatemala Atitlan растворимый, 190г",
-                         "article": 232419,
-                         "url": "/products/190g-kofe-jardin-guatemala-atitlan-rastvorimyy-stb",
-                         "manufacturer": {
-                              "id": 1559,
-                              "name": "JARDIN"
-                         },
-                         "stocks": [
-                              {
-                                   "value": 15,
-                                   "text": "Товара достаточно",
-                                   "eshop_availability": true,
-                                   "prices_per_unit": {
-                                        "old_price": null,
-                                        "price": 829,
-                                        "is_promo": false,
-                                        "discount": null
-                                   }
-                              }
-                         ]
-                    },
-                    {
                          "id": 132626,
                          "name": "Напиток кофейный MacCoffee The Original coffee mix 3в1 порционный растворимый, 2кг x 10 шт",
                          "article": 129210,
@@ -7771,6 +7748,29 @@
                                    "prices_per_unit": {
                                         "old_price": null,
                                         "price": 14990,
+                                        "is_promo": false,
+                                        "discount": null
+                                   }
+                              }
+                         ]
+                    },
+                    {
+                         "id": 604945259,
+                         "name": "Кофе Jardin Guatemala Atitlan растворимый, 190г",
+                         "article": 232419,
+                         "url": "/products/190g-kofe-jardin-guatemala-atitlan-rastvorimyy-stb",
+                         "manufacturer": {
+                              "id": 1559,
+                              "name": "JARDIN"
+                         },
+                         "stocks": [
+                              {
+                                   "value": 15,
+                                   "text": "Товара достаточно",
+                                   "eshop_availability": true,
+                                   "prices_per_unit": {
+                                        "old_price": null,
+                                        "price": 829,
                                         "is_promo": false,
                                         "discount": null
                                    }
@@ -8721,29 +8721,6 @@
                          ]
                     },
                     {
-                         "id": 604948469,
-                         "name": "Кофе Жокей триумф растворимый, 450г",
-                         "article": 232415,
-                         "url": "/products/450g-kofe-zhokey-triumf-rastvorimyy",
-                         "manufacturer": {
-                              "id": 1846,
-                              "name": "ЖОКЕЙ"
-                         },
-                         "stocks": [
-                              {
-                                   "value": 18,
-                                   "text": "Товара достаточно",
-                                   "eshop_availability": false,
-                                   "prices_per_unit": {
-                                        "old_price": null,
-                                        "price": 1189,
-                                        "is_promo": false,
-                                        "discount": null
-                                   }
-                              }
-                         ]
-                    },
-                    {
                          "id": 605168859,
                          "name": "Кофе в капсулах Lavazza Crema E Gusto Classico для кофемашин Nespresso 10шт, 57г",
                          "article": 235403,
@@ -8760,6 +8737,29 @@
                                    "prices_per_unit": {
                                         "old_price": null,
                                         "price": 619,
+                                        "is_promo": false,
+                                        "discount": null
+                                   }
+                              }
+                         ]
+                    },
+                    {
+                         "id": 604948469,
+                         "name": "Кофе Жокей триумф растворимый, 450г",
+                         "article": 232415,
+                         "url": "/products/450g-kofe-zhokey-triumf-rastvorimyy",
+                         "manufacturer": {
+                              "id": 1846,
+                              "name": "ЖОКЕЙ"
+                         },
+                         "stocks": [
+                              {
+                                   "value": 18,
+                                   "text": "Товара достаточно",
+                                   "eshop_availability": false,
+                                   "prices_per_unit": {
+                                        "old_price": null,
+                                        "price": 1189,
                                         "is_promo": false,
                                         "discount": null
                                    }

@@ -7456,29 +7456,6 @@
                          ]
                     },
                     {
-                         "id": 495170,
-                         "name": "Кофе Nescafe Gold Barista растворимый, 85г x 6 шт",
-                         "article": 19743,
-                         "url": "/products/nescafe-gold-molotyj-v-rastvorimom-barista-85g",
-                         "manufacturer": {
-                              "id": 1463,
-                              "name": "NESCAFE"
-                         },
-                         "stocks": [
-                              {
-                                   "value": 2,
-                                   "text": "Заканчивается",
-                                   "eshop_availability": true,
-                                   "prices_per_unit": {
-                                        "old_price": null,
-                                        "price": 2094,
-                                        "is_promo": false,
-                                        "discount": null
-                                   }
-                              }
-                         ]
-                    },
-                    {
                          "id": 559481,
                          "name": "Кофе Dallmayr Espresso d`Oro в зернах, 1кг",
                          "article": 44940,
@@ -7495,6 +7472,29 @@
                                    "prices_per_unit": {
                                         "old_price": null,
                                         "price": 2499,
+                                        "is_promo": false,
+                                        "discount": null
+                                   }
+                              }
+                         ]
+                    },
+                    {
+                         "id": 495170,
+                         "name": "Кофе Nescafe Gold Barista растворимый, 85г x 6 шт",
+                         "article": 19743,
+                         "url": "/products/nescafe-gold-molotyj-v-rastvorimom-barista-85g",
+                         "manufacturer": {
+                              "id": 1463,
+                              "name": "NESCAFE"
+                         },
+                         "stocks": [
+                              {
+                                   "value": 2,
+                                   "text": "Заканчивается",
+                                   "eshop_availability": true,
+                                   "prices_per_unit": {
+                                        "old_price": null,
+                                        "price": 2094,
                                         "is_promo": false,
                                         "discount": null
                                    }
@@ -7548,29 +7548,6 @@
                          ]
                     },
                     {
-                         "id": 601742908,
-                         "name": "Кофе Жокей Триумф растворимый, 280г",
-                         "article": 228240,
-                         "url": "/products/280g-kofe-zhokey-triumf-rastvorimyy",
-                         "manufacturer": {
-                              "id": 1846,
-                              "name": "ЖОКЕЙ"
-                         },
-                         "stocks": [
-                              {
-                                   "value": 12,
-                                   "text": "Товара мало",
-                                   "eshop_availability": true,
-                                   "prices_per_unit": {
-                                        "old_price": null,
-                                        "price": 769,
-                                        "is_promo": false,
-                                        "discount": null
-                                   }
-                              }
-                         ]
-                    },
-                    {
                          "id": 395634,
                          "name": "Кофе Nescafe Classic Crema растворимый, 95г x 12 шт",
                          "article": 551816,
@@ -7587,6 +7564,29 @@
                                    "prices_per_unit": {
                                         "old_price": null,
                                         "price": 2868,
+                                        "is_promo": false,
+                                        "discount": null
+                                   }
+                              }
+                         ]
+                    },
+                    {
+                         "id": 601742908,
+                         "name": "Кофе Жокей Триумф растворимый, 280г",
+                         "article": 228240,
+                         "url": "/products/280g-kofe-zhokey-triumf-rastvorimyy",
+                         "manufacturer": {
+                              "id": 1846,
+                              "name": "ЖОКЕЙ"
+                         },
+                         "stocks": [
+                              {
+                                   "value": 12,
+                                   "text": "Товара мало",
+                                   "eshop_availability": true,
+                                   "prices_per_unit": {
+                                        "old_price": null,
+                                        "price": 769,
                                         "is_promo": false,
                                         "discount": null
                                    }

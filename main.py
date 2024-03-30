@@ -1,18 +1,3 @@
-# from bs4 import BeautifulSoup
-# import requests
-
-# url = "https://4lapy.ru/catalog/suhoy-korm-dlya-koshek-bezzernovoy/"
-# response = requests.get(url)
-# bs = BeautifulSoup(response.text,"lxml")
-# temp = bs.find('div', 'b-header__address_pickup_link_value js_favorite_shop_value')
-# print(temp.text)
-
-# url = 'https://api-cis.exponea.com/webxp/projects/a1c7f982-1686-11ea-8645-02473a0220cc/bundle'
-
-# # import requests
-# data = requests.get(url).json()
-# print(data)
-
 import json
 import requests
 
